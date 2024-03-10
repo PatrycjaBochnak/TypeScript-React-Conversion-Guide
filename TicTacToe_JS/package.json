@@ -11,7 +11,10 @@
     "@babel/preset-env": "^7.0.0",
     "@babel/preset-react": "^7.0.0",
     "babel-loader": "^8.0.0",
-    "webpack": "^4.41.5",
-    "webpack-cli": "^3.3.10"
-  }
+    "terser-webpack-plugin": "^5.3.10",
+    "typescript": "^5.4.2",
+    "webpack": "^5.90.3",
+    "webpack-cli": "^3.3.10",
+    "source-map-loader": "latest"
+}
 }
